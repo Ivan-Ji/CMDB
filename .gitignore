@@ -1,0 +1,8 @@
+venv
+db.sqlite3
+CMDB/setting.example.py
+.git
+.idea
+__pycache__
+CMDB/__pycache__
+.gitignore
